@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/phuongaz/easyspecter/specter"
+	"github.com/nhanaz/easyspecter/specter"
 )
 
 type Specter struct{}

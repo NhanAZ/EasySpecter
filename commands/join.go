@@ -3,7 +3,7 @@ package commands
 import (
 	"log"
 
-	"github.com/phuongaz/easyspecter/specter"
+	"github.com/nhanaz/easyspecter/specter"
 )
 
 type Join struct{}

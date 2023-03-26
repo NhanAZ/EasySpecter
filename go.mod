@@ -1,4 +1,4 @@
-module github.com/phuongaz/easyspecter
+module github.com/nhanaz/easyspecter
 
 go 1.18
 

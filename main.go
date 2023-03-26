@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/phuongaz/easyspecter/commands"
+	"github.com/nhanaz/easyspecter/commands"
 )
 
 func main() {

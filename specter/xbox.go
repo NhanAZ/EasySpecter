@@ -3,7 +3,7 @@ package specter
 import (
 	"context"
 
-	"github.com/phuongaz/easyspecter/xbl"
+	"github.com/nhanaz/easyspecter/xbl"
 	"github.com/sandertv/gophertunnel/minecraft"
 	"github.com/sandertv/gophertunnel/minecraft/protocol/login"
 )

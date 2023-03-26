@@ -3,8 +3,8 @@ package commands
 import (
 	"log"
 
-	"github.com/phuongaz/easyspecter/specter"
-	"github.com/phuongaz/easyspecter/xbl"
+	"github.com/nhanaz/easyspecter/specter"
+	"github.com/nhanaz/easyspecter/xbl"
 )
 
 type Xbox struct{}

@@ -5,7 +5,7 @@ A simple specter for Minecraft Bedrock Edition based on [gophertunnel](https://g
 # How to use
 
 - Step 1
-    + Install [EasySpecter](https://github.com/Phuongaz/EasySpecter/releases)
+    + Install [EasySpecter](https://github.com/nhanaz/EasySpecter/releases)
 - Step 2
     + Run `EasySpecter.exe`
 
@@ -24,8 +24,8 @@ A simple specter for Minecraft Bedrock Edition based on [gophertunnel](https://g
 - Get a package
 
     ```
-    go get github.com/phuongaz/easyspecter
+    go get github.com/nhanaz/easyspecter
     ```
 
 - Create a specter
-    + [Wiki](https://github.com/Phuongaz/EasySpecter/wiki)
+    + [Wiki](https://github.com/nhanaz/EasySpecter/wiki)
